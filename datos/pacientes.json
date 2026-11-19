@@ -1,0 +1,452 @@
+[
+  {
+    "folio": "PAC-001",
+    "nombre": "PAOLA ÁLVAREZ FLORES",
+    "edad": 27,
+    "genero": "Femenino",
+    "telefono": "7224908960",
+    "tipo_sangre": "O+",
+    "diagnostico": "Diabetes mellitus tipo 2"
+  },
+  {
+    "folio": "PAC-002",
+    "nombre": "ÓSCAR RODRÍGUEZ GONZÁLEZ",
+    "edad": 26,
+    "genero": "Masculino",
+    "telefono": "8192480196",
+    "tipo_sangre": "B-",
+    "diagnostico": "Asma bronquial"
+  },
+  {
+    "folio": "PAC-003",
+    "nombre": "DIEGO PÉREZ CHÁVEZ",
+    "edad": 30,
+    "genero": "Masculino",
+    "telefono": "7225425526",
+    "tipo_sangre": "O+",
+    "diagnostico": "Neumonía"
+  },
+  {
+    "folio": "PAC-004",
+    "nombre": "ANA ROMERO PÉREZ",
+    "edad": 46,
+    "genero": "Femenino",
+    "telefono": "7123659830",
+    "tipo_sangre": "A+",
+    "diagnostico": "Hipertensión arterial"
+  },
+  {
+    "folio": "PAC-005",
+    "nombre": "ALEJANDRA GÓMEZ DÍAZ",
+    "edad": 55,
+    "genero": "Femenino",
+    "telefono": "7774124879",
+    "tipo_sangre": "O-",
+    "diagnostico": "Asma bronquial"
+  },
+  {
+    "folio": "PAC-006",
+    "nombre": "IRMA FLORES LÓPEZ",
+    "edad": 64,
+    "genero": "Femenino",
+    "telefono": "7229241532",
+    "tipo_sangre": "O+",
+    "diagnostico": "Hipertensión arterial"
+  },
+  {
+    "folio": "PAC-007",
+    "nombre": "ÓSCAR ORTIZ DÍAZ",
+    "edad": 16,
+    "genero": "Masculino",
+    "telefono": "5612459009",
+    "tipo_sangre": "O+",
+    "diagnostico": "Gastroenteritis"
+  },
+  {
+    "folio": "PAC-008",
+    "nombre": "GABRIELA MORENO CRUZ",
+    "edad": 56,
+    "genero": "Femenino",
+    "telefono": "7289430689",
+    "tipo_sangre": "A+",
+    "diagnostico": "Migraña"
+  },
+  {
+    "folio": "PAC-009",
+    "nombre": "ÓSCAR ORTIZ DÍAZ",
+    "edad": 16,
+    "genero": "Masculino",
+    "telefono": "5612459009",
+    "tipo_sangre": "O+",
+    "diagnostico": "Lumbalgia"
+  },
+  {
+    "folio": "PAC-010",
+    "nombre": "LETICIA TORRES RAMÍREZ",
+    "edad": 75,
+    "genero": "Femenino",
+    "telefono": "7773470508",
+    "tipo_sangre": "A+",
+    "diagnostico": "Asma bronquial"
+  },
+  {
+    "folio": "PAC-011",
+    "nombre": "NATALIA TORRES GONZÁLEZ",
+    "edad": 13,
+    "genero": "Femenino",
+    "telefono": "5666560141",
+    "tipo_sangre": "A+",
+    "diagnostico": "Fractura de tobillo"
+  },
+  {
+    "folio": "PAC-012",
+    "nombre": "CARMEN REYES TORRES",
+    "edad": 90,
+    "genero": "Femenino",
+    "telefono": "5641558028",
+    "tipo_sangre": "A+",
+    "diagnostico": "Lumbalgia"
+  },
+  {
+    "folio": "PAC-013",
+    "nombre": "LAURA JUÁREZ CRUZ",
+    "edad": 39,
+    "genero": "Femenino",
+    "telefono": "7774417095",
+    "tipo_sangre": "B+",
+    "diagnostico": "Apendicitis"
+  },
+  {
+    "folio": "PAC-014",
+    "nombre": "LETICIA HERNÁNDEZ GARCÍA",
+    "edad": 77,
+    "genero": "Femenino",
+    "telefono": "5544602585",
+    "tipo_sangre": "A+",
+    "diagnostico": "Migraña"
+  },
+  {
+    "folio": "PAC-015",
+    "nombre": "PATRICIA MENDOZA GONZÁLEZ",
+    "edad": 24,
+    "genero": "Femenino",
+    "telefono": "7129340777",
+    "tipo_sangre": "O+",
+    "diagnostico": "Hipotiroidismo"
+  },
+  {
+    "folio": "PAC-016",
+    "nombre": "ANA ROMERO PÉREZ",
+    "edad": 47,
+    "genero": "Femenino",
+    "telefono": "7123659830",
+    "tipo_sangre": "A+",
+    "diagnostico": "Apendicitis"
+  },
+  {
+    "folio": "PAC-017",
+    "nombre": "CARLOS SÁNCHEZ RUIZ",
+    "edad": 68,
+    "genero": "Masculino",
+    "telefono": "3342144306",
+    "tipo_sangre": "O+",
+    "diagnostico": "Fractura de tobillo"
+  },
+  {
+    "folio": "PAC-018",
+    "nombre": "ÓSCAR MORALES MENDOZA",
+    "edad": 51,
+    "genero": "Masculino",
+    "telefono": "7223081574",
+    "tipo_sangre": "O+",
+    "diagnostico": "Diabetes mellitus tipo 2"
+  },
+  {
+    "folio": "PAC-019",
+    "nombre": "FERNANDO HERNÁNDEZ RIVERA",
+    "edad": 17,
+    "genero": "Masculino",
+    "telefono": "7120352440",
+    "tipo_sangre": "O+",
+    "diagnostico": "Rinitis alérgica"
+  },
+  {
+    "folio": "PAC-020",
+    "nombre": "IVÁN JUÁREZ GONZÁLEZ",
+    "edad": 71,
+    "genero": "Masculino",
+    "telefono": "5523279921",
+    "tipo_sangre": "O+",
+    "diagnostico": "Infección de vías urinarias"
+  },
+  {
+    "folio": "PAC-021",
+    "nombre": "DIEGO RODRÍGUEZ MORENO",
+    "edad": 74,
+    "genero": "Masculino",
+    "telefono": "7121153525",
+    "tipo_sangre": "AB-",
+    "diagnostico": "Faringitis"
+  },
+  {
+    "folio": "PAC-022",
+    "nombre": "SOFÍA REYES SÁNCHEZ",
+    "edad": 40,
+    "genero": "Femenino",
+    "telefono": "7778393483",
+    "tipo_sangre": "O+",
+    "diagnostico": "Rinitis alérgica"
+  },
+  {
+    "folio": "PAC-023",
+    "nombre": "SOFÍA ROMERO MENDOZA",
+    "edad": 44,
+    "genero": "Femenino",
+    "telefono": "8156022130",
+    "tipo_sangre": "B+",
+    "diagnostico": "Dermatitis atópica"
+  },
+  {
+    "folio": "PAC-024",
+    "nombre": "PATRICIA RIVERA MENDOZA",
+    "edad": 42,
+    "genero": "Femenino",
+    "telefono": "7227867916",
+    "tipo_sangre": "O+",
+    "diagnostico": "Neumonía"
+  },
+  {
+    "folio": "PAC-025",
+    "nombre": "LAURA GONZÁLEZ ÁLVAREZ",
+    "edad": 83,
+    "genero": "Femenino",
+    "telefono": "7772195190",
+    "tipo_sangre": "O+",
+    "diagnostico": "Hipertensión arterial"
+  },
+  {
+    "folio": "PAC-026",
+    "nombre": "ARTURO RAMÍREZ MARTÍNEZ",
+    "edad": 73,
+    "genero": "Masculino",
+    "telefono": "7284520781",
+    "tipo_sangre": "AB+",
+    "diagnostico": "Fractura de tobillo"
+  },
+  {
+    "folio": "PAC-027",
+    "nombre": "DANIEL RUIZ HERNÁNDEZ",
+    "edad": 80,
+    "genero": "Masculino",
+    "telefono": "7128855843",
+    "tipo_sangre": "O+",
+    "diagnostico": "Dermatitis atópica"
+  },
+  {
+    "folio": "PAC-028",
+    "nombre": "IVÁN LÓPEZ JIMÉNEZ",
+    "edad": 41,
+    "genero": "Masculino",
+    "telefono": "7129084123",
+    "tipo_sangre": "O-",
+    "diagnostico": "Dermatitis atópica"
+  },
+  {
+    "folio": "PAC-029",
+    "nombre": "ROBERTO CASTILLO DÍAZ",
+    "edad": 76,
+    "genero": "Masculino",
+    "telefono": "7126714323",
+    "tipo_sangre": "A+",
+    "diagnostico": "Hipertensión arterial"
+  },
+  {
+    "folio": "PAC-030",
+    "nombre": "CARLOS SÁNCHEZ RUIZ",
+    "edad": 70,
+    "genero": "Masculino",
+    "telefono": "3342144306",
+    "tipo_sangre": "O+",
+    "diagnostico": "Rinitis alérgica"
+  },
+  {
+    "folio": "PAC-031",
+    "nombre": "IVÁN VÁZQUEZ HERNÁNDEZ",
+    "edad": 56,
+    "genero": "Masculino",
+    "telefono": "7124211679",
+    "tipo_sangre": "O-",
+    "diagnostico": "Fractura de tobillo"
+  },
+  {
+    "folio": "PAC-032",
+    "nombre": "LUCÍA DÍAZ GONZÁLEZ",
+    "edad": 12,
+    "genero": "Femenino",
+    "telefono": "7282540989",
+    "tipo_sangre": "AB+",
+    "diagnostico": "Hipertensión arterial"
+  },
+  {
+    "folio": "PAC-033",
+    "nombre": "GABRIELA ÁLVAREZ CRUZ",
+    "edad": 87,
+    "genero": "Femenino",
+    "telefono": "8174832733",
+    "tipo_sangre": "O+",
+    "diagnostico": "Hipotiroidismo"
+  },
+  {
+    "folio": "PAC-034",
+    "nombre": "RICARDO RAMÍREZ HERNÁNDEZ",
+    "edad": 13,
+    "genero": "Masculino",
+    "telefono": "7280346204",
+    "tipo_sangre": "O+",
+    "diagnostico": "Asma bronquial"
+  },
+  {
+    "folio": "PAC-035",
+    "nombre": "TERESA ÁLVAREZ CRUZ",
+    "edad": 62,
+    "genero": "Femenino",
+    "telefono": "7775717882",
+    "tipo_sangre": "A-",
+    "diagnostico": "Neumonía"
+  },
+  {
+    "folio": "PAC-036",
+    "nombre": "PATRICIA VÁZQUEZ MARTÍNEZ",
+    "edad": 75,
+    "genero": "Femenino",
+    "telefono": "3358991468",
+    "tipo_sangre": "O+",
+    "diagnostico": "Gastritis"
+  },
+  {
+    "folio": "PAC-037",
+    "nombre": "MARIANA PÉREZ GÓMEZ",
+    "edad": 19,
+    "genero": "Femenino",
+    "telefono": "7225086169",
+    "tipo_sangre": "AB+",
+    "diagnostico": "Neumonía"
+  },
+  {
+    "folio": "PAC-038",
+    "nombre": "DANIEL MORALES ORTIZ",
+    "edad": 33,
+    "genero": "Masculino",
+    "telefono": "3369778308",
+    "tipo_sangre": "A+",
+    "diagnostico": "Dermatitis atópica"
+  },
+  {
+    "folio": "PAC-039",
+    "nombre": "JUAN DÍAZ GARCÍA",
+    "edad": 61,
+    "genero": "Masculino",
+    "telefono": "8190131845",
+    "tipo_sangre": "O-",
+    "diagnostico": "Gastroenteritis"
+  },
+  {
+    "folio": "PAC-040",
+    "nombre": "MARIANA PÉREZ GÓMEZ",
+    "edad": 21,
+    "genero": "Femenino",
+    "telefono": "7225086169",
+    "tipo_sangre": "AB+",
+    "diagnostico": "Dermatitis atópica"
+  },
+  {
+    "folio": "PAC-041",
+    "nombre": "CARMEN HERNÁNDEZ ROMERO",
+    "edad": 70,
+    "genero": "Femenino",
+    "telefono": "8126326436",
+    "tipo_sangre": "O+",
+    "diagnostico": "Apendicitis"
+  },
+  {
+    "folio": "PAC-042",
+    "nombre": "VALERIA MARTÍNEZ MORALES",
+    "edad": 31,
+    "genero": "Femenino",
+    "telefono": "7225976498",
+    "tipo_sangre": "O-",
+    "diagnostico": "Anemia"
+  },
+  {
+    "folio": "PAC-043",
+    "nombre": "JAVIER MORALES RAMÍREZ",
+    "edad": 90,
+    "genero": "Masculino",
+    "telefono": "7226780620",
+    "tipo_sangre": "O+",
+    "diagnostico": "Dermatitis atópica"
+  },
+  {
+    "folio": "PAC-044",
+    "nombre": "DANIELA PÉREZ RUIZ",
+    "edad": 41,
+    "genero": "Femenino",
+    "telefono": "3302088105",
+    "tipo_sangre": "A+",
+    "diagnostico": "Asma bronquial"
+  },
+  {
+    "folio": "PAC-045",
+    "nombre": "PEDRO PÉREZ JUÁREZ",
+    "edad": 77,
+    "genero": "Masculino",
+    "telefono": "7288384574",
+    "tipo_sangre": "A+",
+    "diagnostico": "Anemia"
+  },
+  {
+    "folio": "PAC-046",
+    "nombre": "LAURA DÍAZ ROMERO",
+    "edad": 24,
+    "genero": "Femenino",
+    "telefono": "7286959426",
+    "tipo_sangre": "A-",
+    "diagnostico": "Gastritis"
+  },
+  {
+    "folio": "PAC-047",
+    "nombre": "ALEJANDRA CRUZ SÁNCHEZ",
+    "edad": 22,
+    "genero": "Femenino",
+    "telefono": "7777915175",
+    "tipo_sangre": "O-",
+    "diagnostico": "Lumbalgia"
+  },
+  {
+    "folio": "PAC-048",
+    "nombre": "ROBERTO CASTILLO DÍAZ",
+    "edad": 78,
+    "genero": "Masculino",
+    "telefono": "7126714323",
+    "tipo_sangre": "A+",
+    "diagnostico": "Gastroenteritis"
+  },
+  {
+    "folio": "PAC-049",
+    "nombre": "PEDRO GÓMEZ MORENO",
+    "edad": 16,
+    "genero": "Masculino",
+    "telefono": "5636938128",
+    "tipo_sangre": "A+",
+    "diagnostico": "Anemia"
+  },
+  {
+    "folio": "PAC-050",
+    "nombre": "ROBERTO CASTILLO DÍAZ",
+    "edad": 78,
+    "genero": "Masculino",
+    "telefono": "7126714323",
+    "tipo_sangre": "A+",
+    "diagnostico": "Fractura de tobillo"
+  }
+]
